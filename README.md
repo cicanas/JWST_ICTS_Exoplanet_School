@@ -1,4 +1,4 @@
-# JWST_ICTS_Exoplanet_School
+# JWST ICTS Exoplanet School (March 21, 2026)
 Scripts, snippets, and config files for the WJST data reduction section. A lot built upon the work from the 2023 Sagan Summer Workshop and related notebooks (see details [here](https://nexsci.caltech.edu/workshop/2023/)).
 
 # Prepare the workspace
