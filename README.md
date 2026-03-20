@@ -1,2 +1,23 @@
 # JWST_ICTS_Exoplanet_School
-Scripts, snippets, and config files for the WJST data reduction section. 
+Scripts, snippets, and config files for the WJST data reduction section. A lot built upon the work from the 2023 Sagan Summer Workshop and related notebooks (see details [here](https://nexsci.caltech.edu/workshop/2023/)).
+
+# Prepare the workspace
+- Download the [WASP-39 data](https://nasa-ext.box.com/shared/static/gmspif7rd12t0vzpquwkv45oezo9mfjy.gz)
+- Ensure the *uncal* files are in the **uncalib** folder
+
+# Running Eureka!
+The pipeline can be broken into three broad steps with specific python scripts (and combined in the notebook).
+1. Generation of light curves (Stages 1-4, *eureka_extraction.py*)
+2. Fitting of the light curves (Stage 5, *eureka_fit.py*)
+3. Generation of spectra (Stage 6, *eureka_spectra.py*)
+
+# Note
+Running the full reduction and fits will take hours. This can run on a personal device but may be better suited for a high-performance computing cluster. 
+
+# References
+- jwst pipeline documentation: https://jwst-pipeline.readthedocs.io/en/latest/index.html
+- Eureka! documentation: https://eurekadocs.readthedocs.io/en/latest/
+- Specific information on the [ERS Program](https://www.stsci.edu/jwst/science-execution/approved-programs/dd-ers/program-1366)
+- Programmatic information (observations, APT file, etc.) can be found [here](https://www.stsci.edu/jwst/science-execution/program-information?id=1366)
+- JWST Science Publications: https://www.stsci.edu/jwst/science-execution/science-publications
+- JWST Technical Documents: https://www.stsci.edu/jwst/documentation/technical-documents
