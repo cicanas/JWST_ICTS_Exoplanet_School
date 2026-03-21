@@ -16,6 +16,8 @@ You should run through all stages to ensure you understand the processing I have
 - [Stage 1](https://nasa-ext.box.com/shared/static/lscbe1w2sog18pctfn0pru9o41zel4b0.gz)
 - [Stage 2](https://nasa-ext.box.com/shared/static/i3w7k6sdbhz17os3wf739vm0gi3bz2d8.gz)
 - [Stage 3](https://nasa-ext.box.com/shared/static/vyj8ivq9p8r671xc78gyo8ua96jozxj2.gz)
+- [Stage 4](https://nasa-ext.box.com/shared/static/tiir3946wuvvat19tykxau6zyjb12tdp.gz)
+- [Stage 5](https://nasa-ext.box.com/shared/static/xhhpur0z4mnsr1xi64skjwsa26qthg16.gz)
 
 # Note
 Running the full reduction and fits will take hours. This can run on a personal device but may be better suited for a high-performance computing cluster. 
