@@ -15,6 +15,8 @@ The pipeline can be broken into three broad steps with specific python scripts (
 Running the full reduction and fits will take hours. This can run on a personal device but may be better suited for a high-performance computing cluster. 
 
 # References
+- Slides: https://docs.google.com/presentation/d/1f39cP7r3VrtojDJQdQEtGIekNVe4zilvv-84tgQUqac/edit?usp=sharing
+- ERS Hackathon: https://ers-transit.github.io/pre-launch-hackathon.html
 - jwst pipeline documentation: https://jwst-pipeline.readthedocs.io/en/latest/index.html
 - Eureka! documentation: https://eurekadocs.readthedocs.io/en/latest/
 - Specific information on the [ERS Program](https://www.stsci.edu/jwst/science-execution/approved-programs/dd-ers/program-1366)
