@@ -16,6 +16,7 @@ Running the full reduction and fits will take hours. This can run on a personal 
 
 # References
 - Slides: https://docs.google.com/presentation/d/1f39cP7r3VrtojDJQdQEtGIekNVe4zilvv-84tgQUqac/edit?usp=sharing
+- Search for JWST data: https://mast.stsci.edu/search/ui/#/jwst
 - ERS Hackathon: https://ers-transit.github.io/pre-launch-hackathon.html
 - jwst pipeline documentation: https://jwst-pipeline.readthedocs.io/en/latest/index.html
 - Eureka! documentation: https://eurekadocs.readthedocs.io/en/latest/
